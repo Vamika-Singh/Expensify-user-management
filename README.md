@@ -24,22 +24,26 @@ expensify-user-management/
 ├── form-validation.js      # JavaScript file for form validation and error handling
 └── README.md               # Project description and setup instructions
 
-Technologies Used
+##Technologies Used
 
 HTML: For structuring the content of the login and registration forms.
+
 CSS: Custom styling for a professional look and feel.
+
 Bootstrap: A front-end framework for responsive and mobile-first design.
+
 JavaScript: For handling form validation and dynamic error messages.
 
-How to Run the Project
+##HOW TO RUN THE PROJECT:
 Follow these steps to run the project locally on your system:
 
-Clone the repository:
+1.Clone the repository:
 git clone https://github.com/your-username/expensify-user-management.git
 
-Navigate to the project folder:
+2.Navigate to the project folder:
 cd expensify-user-management
-Open Login.html or Register.html in your browser.
 
-License:
+3.Open Login.html or Register.html in your browser.
+
+##License:
 This project is licensed under the MIT License
