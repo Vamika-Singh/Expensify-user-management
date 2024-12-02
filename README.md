@@ -25,6 +25,7 @@ expensify-user-management/
 └── README.md               # Project description and setup instructions
 
 Technologies Used
+
 HTML: For structuring the content of the login and registration forms.
 CSS: Custom styling for a professional look and feel.
 Bootstrap: A front-end framework for responsive and mobile-first design.
