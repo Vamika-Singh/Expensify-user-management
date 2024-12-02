@@ -38,7 +38,7 @@ JavaScript: For handling form validation and dynamic error messages.
 Follow these steps to run the project locally on your system:
 
 1.Clone the repository:
-git clone https://github.com/your-username/expensify-user-management.git
+git clone https://github.com/Vamika-Singh/Expensify-user-management.git
 
 2.Navigate to the project folder:
 cd expensify-user-management
